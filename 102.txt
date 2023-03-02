@@ -1,1 +1,8 @@
+Chapter 3 : Routing and Controllers
+
+* defining an application’s routes is the first and most important project to tackle when learning a web frame‐ work; without routes, you have little to no ability to interact with the end user.
+A
+ Quick Introduction to MVC, the HTTP Verbs, and REST
+
+What is MVC? 
 
